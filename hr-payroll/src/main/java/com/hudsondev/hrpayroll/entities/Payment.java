@@ -1,4 +1,4 @@
-package com.hudsondev.hrworker.entities;
+package com.hudsondev.hrpayroll.entities;
 
 import java.io.Serializable;
 
